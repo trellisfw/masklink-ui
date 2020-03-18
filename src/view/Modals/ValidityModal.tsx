@@ -1,5 +1,7 @@
 import React from 'react'
 import { Modal, Header } from 'semantic-ui-react'
+import VerifiedUserIcon from '@material-ui/icons/VerifiedUser'
+import HighlightOffIcon from '@material-ui/icons/HighlightOff'
 
 /** @jsx jsx */
 import { jsx, css } from '@emotion/core'
@@ -27,14 +29,32 @@ function color (valid: Validity): string {
       return 'gray'
   }
 }
+function icon (valid: Validity) {
+  switch (valid) {
+    case Validity.Valid:
+      return VerifiedUserIcon
+    case Validity.Invalid:
+      return HighlightOffIcon
+    case Validity.Unknown:
+      return HighlightOffIcon
+  }
+}
 const ValidityModal: React.FunctionComponent = () => {
   const { actions, state } = overmind()
   const myActions = actions.view.Modals.ValidityModal
   const myState = state.view.Modals.ValidityModal
 
+  const ValidityIcon = icon(state.valid)
   return (
     <Modal open={myState.open} onClose={myActions.close}>
-      <Header content='Trellis Mask Check' />
+      <Header>
+        <ValidityIcon
+          css={css`
+            color: ${color(state.valid)};
+          `}
+        />{' '}
+        Trellis Mask Check
+      </Header>
       <Modal.Content>
         <div
           css={css`
