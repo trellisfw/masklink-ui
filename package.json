@@ -1,6 +1,7 @@
 {
-  "name": "oada-mask-ui",
+  "name": "masklink-ui",
   "version": "1.0.0",
+  "homepage": "https://trellisfw.github.io/masklink-ui/",
   "dependencies": {
     "@emotion/core": "^10.0.27",
     "@material-ui/core": "^4.9.7",
