@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb0ab4b4fe897a4b1a09cc0adc3381d6",
+    "revision": "a73a249dfb39f1e5fffd23ff9e3ea099",
     "url": "/masklink-ui/index.html"
   },
   {

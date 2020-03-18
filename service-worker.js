@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/masklink-ui/precache-manifest.930c176ec058574d128f79da432958ab.js"
+  "/masklink-ui/precache-manifest.c9a94c65712f398fa0eb4154447224c4.js"
 );
 
 self.addEventListener('message', (event) => {
