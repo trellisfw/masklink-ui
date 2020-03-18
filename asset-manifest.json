@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.7e7237ff.chunk.js",
-    "main.js.map": "/static/js/main.7e7237ff.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1183e80a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1183e80a.js.map",
-    "static/css/2.f881b637.chunk.css": "/static/css/2.f881b637.chunk.css",
-    "static/js/2.9fdecc4a.chunk.js": "/static/js/2.9fdecc4a.chunk.js",
-    "static/js/2.9fdecc4a.chunk.js.map": "/static/js/2.9fdecc4a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8d3cf9322e2c4a1a29633f49b42f413c.js": "/precache-manifest.8d3cf9322e2c4a1a29633f49b42f413c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.f881b637.chunk.css.map": "/static/css/2.f881b637.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.9fdecc4a.chunk.js.LICENSE": "/static/js/2.9fdecc4a.chunk.js.LICENSE",
-    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
-    "static/media/processing.svg": "/static/media/processing.a0fb5f7a.svg",
-    "static/media/signed.svg": "/static/media/signed.32666418.svg",
-    "static/media/upload.svg": "/static/media/upload.0c074248.svg"
+    "main.css": "/masklink-ui/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/masklink-ui/static/js/main.d90e53f9.chunk.js",
+    "main.js.map": "/masklink-ui/static/js/main.d90e53f9.chunk.js.map",
+    "runtime-main.js": "/masklink-ui/static/js/runtime-main.e6cecabb.js",
+    "runtime-main.js.map": "/masklink-ui/static/js/runtime-main.e6cecabb.js.map",
+    "static/css/2.d453afb9.chunk.css": "/masklink-ui/static/css/2.d453afb9.chunk.css",
+    "static/js/2.8ade6926.chunk.js": "/masklink-ui/static/js/2.8ade6926.chunk.js",
+    "static/js/2.8ade6926.chunk.js.map": "/masklink-ui/static/js/2.8ade6926.chunk.js.map",
+    "index.html": "/masklink-ui/index.html",
+    "precache-manifest.930c176ec058574d128f79da432958ab.js": "/masklink-ui/precache-manifest.930c176ec058574d128f79da432958ab.js",
+    "service-worker.js": "/masklink-ui/service-worker.js",
+    "static/css/2.d453afb9.chunk.css.map": "/masklink-ui/static/css/2.d453afb9.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/masklink-ui/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8ade6926.chunk.js.LICENSE": "/masklink-ui/static/js/2.8ade6926.chunk.js.LICENSE",
+    "static/media/semantic.min.css": "/masklink-ui/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/processing.svg": "/masklink-ui/static/media/processing.a0fb5f7a.svg",
+    "static/media/signed.svg": "/masklink-ui/static/media/signed.32666418.svg",
+    "static/media/upload.svg": "/masklink-ui/static/media/upload.0c074248.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1183e80a.js",
-    "static/css/2.f881b637.chunk.css",
-    "static/js/2.9fdecc4a.chunk.js",
+    "static/js/runtime-main.e6cecabb.js",
+    "static/css/2.d453afb9.chunk.css",
+    "static/js/2.8ade6926.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.7e7237ff.chunk.js"
+    "static/js/main.d90e53f9.chunk.js"
   ]
 }
